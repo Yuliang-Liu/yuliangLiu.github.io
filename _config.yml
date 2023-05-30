@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuliang Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuliang Liu"
+description              : &description "Liu Yuliang is a professor at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology. The primary research direction is artificial intelligence, with a particular focus on the field of text and image intelligence. He received B.S. and Ph.D degrees from South China University and Technology. He has also worked as a postdoctoral researcher at the University of Adelaide and the Chinese University of Hong Kong. He has led one project funded by the National Natural Science Foundation of China, and served as the principal investigator of two sub-projects of national key research and development programs, as well as own Excellent Doctoral Dissertation Award from CSIG. He has published over 40 research papers in top-tier journals and conferences, such as IEEE TPAMI, IJCV, TIP, and CVPR. He has won 6 international competition championships and 2 Internet+ gold awards."
+url                      : https://yuliangliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Yuliang-Liu/yuliangliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yuliang Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Huazhong University of Science and Technology"
+  location         : "Huazhong University of Science and Technology"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Yuliang-Liu"
   google_plus      :
   keybase          :
   instagram        :
